@@ -75,7 +75,7 @@ Nilai *k* terbaik diperoleh berdasarkan Silhouette Score tertinggi. Hasil cluste
 
 ---
 
-## 3
+## 3. Assignment Chapter 2 - Case 3: Regression
 
 ### Ringkasan Tugas
 Kasus ketiga dalam tugas ini adalah membuat model regresi menggunakan TensorFlow-Keras untuk memprediksi harga rumah di California berdasarkan dataset *California House Price*. Model ini dibangun menggunakan arsitektur *Multilayer Perceptron* dengan input ganda.
@@ -110,7 +110,7 @@ Dataset yang digunakan adalah California House Price dari *Scikit-Learn*, dengan
 
 ---
 
-## 4
+## 4. Assignment Chapter 2 - Case 4: Classification
 
 ### Ringkasan Tugas
 Kasus keempat dalam tugas ini adalah membangun model klasifikasi menggunakan PyTorch untuk mendeteksi transaksi fraud pada dataset *Credit Card Fraud 2023*. Model ini menggunakan *Multilayer Perceptron* untuk mengklasifikasikan apakah suatu transaksi termasuk fraud atau tidak.
