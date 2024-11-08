@@ -1,7 +1,5 @@
 # Ch. 2: Machine Learning and Deep Learning
 
-README ini menjelaskan deliverables dari tugas Bab 2 tentang Machine Learning yang mencakup dua kasus, yaitu klasifikasi dan klasterisasi. Tugas ini dikerjakan dalam dua file terpisah, masing-masing berfokus pada jenis masalah berbeda (klasifikasi dan klasterisasi).
-
 ## Isi
 
 1. [Assignment Chapter 2 - Case 1 (02_Kelompok_B_1.ipynb)](#1-assignment-chapter-2---case-1)
