@@ -4,10 +4,10 @@ README ini menjelaskan deliverables dari tugas Bab 2 tentang Machine Learning ya
 
 ## Isi
 
-1. [Assignment Chapter 2 - Case 1: Supervised Learning Classification (02_Kelompok_B_1.ipynb)](#assignment-chapter-2---case-1-supervised-learning-classification-02_kelompok_b_1ipynb)
-2. [Assignment Chapter 2 - Case 2: Unsupervised Learning Clustering (02_Kelompok_B_2.ipynb)](#assignment-chapter-2---case-2-unsupervised-learning-clustering-02_kelompok_b_2ipynb)
-3. [Assignment Chapter 2 - Case 3: Regression (02_Kelompok_B_3.ipynb)](#assignment-chapter-2---case-3-regression-02_kelompok_b_3ipynb)
-4. [Assignment Chapter 2 - Case 4: Classification (02_Kelompok_B_4.ipynb)](#assignment-chapter-2---case-4-classification-02_kelompok_b_4ipynb)
+1. [Assignment Chapter 2 - Case 1: Supervised Learning Classification (02_Kelompok_B_1.ipynb)](#assignment-chapter-2---case-1-supervised-learning-classification)
+2. [Assignment Chapter 2 - Case 2: Unsupervised Learning Clustering (02_Kelompok_B_2.ipynb)](#assignment-chapter-2---case-2-unsupervised-learning-clustering)
+3. [Assignment Chapter 2 - Case 3: Regression (02_Kelompok_B_3.ipynb)](#assignment-chapter-2---case-3-regression)
+4. [Assignment Chapter 2 - Case 4: Classification (02_Kelompok_B_4.ipynb)](#assignment-chapter-2---case-4-classification)
 
 ---
 
