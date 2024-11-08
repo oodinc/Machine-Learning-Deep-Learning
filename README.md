@@ -4,14 +4,14 @@ README ini menjelaskan deliverables dari tugas Bab 2 tentang Machine Learning ya
 
 ## Isi
 
-1. [Assignment Chapter 2 - Case 1: Supervised Learning Classification (02_Kelompok_B_1.ipynb)](#1)
-2. [Assignment Chapter 2 - Case 2: Unsupervised Learning Clustering (02_Kelompok_B_2.ipynb)](#2)
-3. [Assignment Chapter 2 - Case 3: Regression (02_Kelompok_B_3.ipynb)](#3)
-4. [Assignment Chapter 2 - Case 4: Classification (02_Kelompok_B_4.ipynb)](#4)
+1. [Assignment Chapter 2 - Case 1: Supervised Learning Classification (02_Kelompok_B_1.ipynb)](#1-assignment-chapter-2---case-1-supervised-learning-classification)
+2. [Assignment Chapter 2 - Case 2: Unsupervised Learning Clustering (02_Kelompok_B_2.ipynb)](#2-assignment-chapter-2---case-2-unsupervised-learning-clustering)
+3. [Assignment Chapter 2 - Case 3: Regression (02_Kelompok_B_3.ipynb)](#3-assignment-chapter-2---case-3-regression)
+4. [Assignment Chapter 2 - Case 4: Classification (02_Kelompok_B_4.ipynb)](#4-assignment-chapter-2---case-4-classification)
 
 ---
 
-## 1
+## 1. Assignment Chapter 2 - Case 1: Supervised Learning Classification
 
 ### Ringkasan Tugas
 Kasus pertama dalam tugas ini adalah membuat model klasifikasi menggunakan algoritma Machine Learning untuk memprediksi `Exited` dari nasabah dalam dataset *bank data*. 
@@ -44,7 +44,7 @@ Setiap model dijelaskan secara singkat dalam *notebook*. Berdasarkan hasil, **Gr
 
 ---
 
-## 2
+## 2. Assignment Chapter 2 - Case 2: Unsupervised Learning Clustering
 
 ### Ringkasan Tugas
 Kasus kedua dalam tugas ini adalah melakukan *clustering* atau segmentasi data menggunakan *unsupervised learning*, khususnya menggunakan algoritma *KMeans Clustering*.
